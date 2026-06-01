@@ -1,5 +1,5 @@
 ## Rotten Tomatoes Movie Ratings Analysis
-- This project was a part of my learning, includes data cleaning and exploratory data analysis (EDA) with python, pandas, numpy.
+- This project was a part of my learning, includes data cleaning and exploratory data analysis (EDA) with python, pandas.
  
 - A Python-based data cleaning and exploratory data analysis (EDA) project focused on a Rotten Tomatoes movie ratings dataset. The goal was to prepare raw movie data for analysis, uncover trends in ratings and reviews, and practice real-world data preparation techniques commonly used in data science workflows.
 
