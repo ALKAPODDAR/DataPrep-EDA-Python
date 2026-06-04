@@ -49,4 +49,4 @@ Audience scores fluctuated more than critic scores.
 ### Conclusion
 This project demonstrates the complete Data Cleaning & EDA workflow on a real-world movie dataset. By analyzing Rotten Tomatoes ratings, valuable insights were uncovered regarding audience behavior, critic preferences, genre performance, and movie popularity trends.
 
-dataset source: Udemy - Data Science in Python - Data Prep & EDA - Maven Analytics
+dataset source: Udemy - kaggle
